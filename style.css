@@ -10,3 +10,12 @@ h1{ font-family: "Times New Roman", Times, serif;
 	width: auto;
 
 }
+li{
+	font-weight: bold;
+	padding: 5px;
+	margin: 10px;
+}
+/*a{
+	font-weight: bold;
+	padding: 5px;
+}*/
