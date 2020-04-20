@@ -1,0 +1,12 @@
+body{
+	margin: auto;
+}
+
+h1{ font-family: "Times New Roman", Times, serif;
+	color: blue;
+	font-size: 3em;
+	text-align: center;
+	border-bottom: 2px solid #e100ff;
+	width: auto;
+
+}
